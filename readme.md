@@ -45,6 +45,7 @@ These apps can be used for conversational AI, generating insights, or understand
 For the text-based app:
 
 `streamlit run app.py`
+
 For the multimodal app:
 
 `streamlit run vision.py`
