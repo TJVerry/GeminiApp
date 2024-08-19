@@ -40,6 +40,7 @@ These apps can be used for conversational AI, generating insights, or understand
 5. Add your Google API key to the .env file:
 
 `GOOGLE_API_KEY= "{your-google-api-key-here}"`
+
 6. Run the desired Streamlit app:
 For the text-based app:
 
